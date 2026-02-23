@@ -3,5 +3,5 @@ vim.pack.add({
 })
 
 require("nvim-treesitter").install({
-    "C", "lua", "rust",
+    "c", "lua", "rust",
 })

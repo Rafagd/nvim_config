@@ -1,2 +1,5 @@
 require("colorscheme")
+require("settings")
 require("treesitter")
+require("completions")
+require("keymaps")

@@ -4,6 +4,34 @@
       "rev": "697c00291db857ca0af00ec154e5bd514a79191f",
       "src": "https://github.com/morhetz/gruvbox"
     },
+    "mason-lspconfig.nvim": {
+      "rev": "6c4830e37743b060d13c9269394176aea6a0fbc8",
+      "src": "https://github.com/mason-org/mason-lspconfig.nvim.git"
+    },
+    "mason.nvim": {
+      "rev": "44d1e90e1f66e077268191e3ee9d2ac97cc18e65",
+      "src": "https://github.com/mason-org/mason.nvim.git"
+    },
+    "noice.nvim": {
+      "rev": "7bfd942445fb63089b59f97ca487d605e715f155",
+      "src": "https://github.com/folke/noice.nvim"
+    },
+    "nui.nvim": {
+      "rev": "de740991c12411b663994b2860f1a4fd0937c130",
+      "src": "https://github.com/MunifTanjim/nui.nvim"
+    },
+    "nvim-cmp": {
+      "rev": "da88697d7f45d16852c6b2769dc52387d1ddc45f",
+      "src": "https://github.com/hrsh7th/nvim-cmp.git"
+    },
+    "nvim-lspconfig": {
+      "rev": "5a855bcfec7973767a1a472335684bbd71d2fa2b",
+      "src": "https://github.com/neovim/nvim-lspconfig.git"
+    },
+    "nvim-notify": {
+      "rev": "8701bece920b38ea289b457f902e2ad184131a5d",
+      "src": "https://github.com/rcarriga/nvim-notify"
+    },
     "nvim-treesitter": {
       "rev": "dc42c209f3820bdfaae0956f15de29689aa6b451",
       "src": "https://github.com/nvim-treesitter/nvim-treesitter"
